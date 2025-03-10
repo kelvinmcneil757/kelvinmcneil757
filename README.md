@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Product Strategist & Technologist** with a background in **product management, fintech, government contracts, grants management, and SaaS solutions**. I lead cross-functional teams in **UI/UX, product management, and agile development**. With experience in **ServiceNow, AWS, Java, Javascript, and SQL**, I'm expanding my skills into **full-stack development** to enhance my ability to prototype and build products.
 
-## 👀 I’m interested in...
+## 👀 I’m interested and involved in...
 - **Product Strategy & UX Design** – Aligning business goals with user needs
 - **Software Development** – Learning front-end and full-stack technologies
 - **Startup Growth & Equity Opportunities** – Interested in collaborating and working in impactful roles with innovative SaaS startups
@@ -12,7 +12,6 @@ I'm a **Product Strategist & Technologist** with a background in **product manag
 ## 🌱 I’m currently learning and improving my skills in...
 - **Full-Stack Development** – Strengthening my coding skills to build and prototype solutions
 - **JavaScript, Python & Cloud Databases** – Improving technical skills for SaaS products
-- **Investment & Wealth Building** – Exploring strategic investments, cryptocurrencies and real estate
 
 ##  I’m looking to collaborate on...
 - **GovTech & SaaS Solutions** – Building scalable, impactful technology for government and enterprises
