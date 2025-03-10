@@ -17,7 +17,6 @@ I'm a **Product Strategist & Technologist** with a background in **product manag
 ##  I’m looking to collaborate on...
 - **GovTech & SaaS Solutions** – Building scalable, impactful technology for government and enterprises
 - **AI & Automation** – Exploring ways to integrate AI into product strategy and business operations
-- **Basketball Training & Youth Development** – Partnering with coaches, trainers, and sponsors
 
 ## 📫 How to reach me...
 - **LinkedIn**: [www.linkedin.com/in/kelvin-mcneil-jr]
