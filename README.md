@@ -25,5 +25,5 @@ I specialize in **building program backlogs, PI planning, and roadmapping, ensur
 ## ⚡ Fun fact:
 I played **college basketball** at the University of Delaware & the University of North Carolina at Greensboro and now use my leadership experience from the court to drive **team success in product strategy!**!
 
-## Personal
+## Personal Note
 I am married and have two children that I adore. I love my family and I'm extremely grateful for them. 
