@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Product Strategist & Technologist with expertise in product management, fintech, government contracts, grants management, and SaaS solutions**. I lead cross-functional teams in UI/UX, product management, and agile development, driving innovation and execution at scale. **My ability to craft compelling pitches, elicit complex requirements, and secure funding** has enabled me to build and launch high-impact projects.
 
-I specialize in **building program backlogs, PI planning, and roadmapping, ensuring alignment between strategic vision and execution**. With a strong foundation in **ServiceNow, AWS, Java, JavaScript, Python, and SQL**, I'm expanding into **full-stack development** to enhance my ability to prototype and build transformative products. **Whether it's writing detailed user stories and acceptance criteria or architecting scalable solutions, I bridge the gap between vision, execution, and impact**.
+I specialize in **building program backlogs, PI planning, and roadmapping, ensuring alignment between strategic vision and execution**. My goal in 2025 is to build a strong foundation in **ServiceNow, AWS, Java, JavaScript, Python, and SQL**, I'm expanding into **full-stack development** to enhance my ability to prototype and build transformative products. **Whether it's writing detailed user stories and acceptance criteria, story mapping or architecting scalable solutions, I intend to bridge the gap between vision, execution, and impact**.
 
 ## 👀 I’m interested and involved in...
 - **Product Strategy & UX Design** – Aligning business goals with user needs
