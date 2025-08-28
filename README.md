@@ -13,7 +13,7 @@ I specialize in **building program backlogs, PI planning, and roadmapping, ensur
 
 ## 🌱 I’m currently learning and improving my skills in...
 - **Full-Stack Development** – Strengthening my coding skills to build and prototype solutions
-- **JavaScript, Python & Cloud Databases** – Improving technical skills for SaaS products
+- **JavaScript, Python, Ruby on Rails & Cloud Databases** – Improving technical skills for SaaS products
 
 ##  I’m looking to collaborate on...
 - **GovTech & SaaS Solutions** – Building scalable, impactful technology for government and enterprises
