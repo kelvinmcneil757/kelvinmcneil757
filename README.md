@@ -1,5 +1,8 @@
 # Hi, I’m Kelvin McNeil Jr (@kelvinmcneil757)
 
+## Personal Website
+https://kelvinmcneil757.github.io/resume/?
+
 ## About Me
 I'm a **Product Strategist & Technologist with expertise in product management, fintech, government contracts, grants management, and SaaS solutions**. I lead cross-functional teams in UI/UX, product management, and agile development, driving innovation and execution at scale. **My ability to craft compelling pitches, elicit complex requirements, and secure funding** has enabled me to build and launch high-impact projects.
 
