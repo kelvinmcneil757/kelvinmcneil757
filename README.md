@@ -6,17 +6,18 @@ https://kelvinmcneil757.github.io/resume/
 ## About Me
 I'm a **Product Strategist & Technologist with expertise in product management, fintech, government contracts, grants management, and SaaS solutions**. I lead cross-functional teams in UI/UX, product management, and agile development, driving innovation and execution at scale. **My ability to craft compelling pitches, elicit complex requirements, and secure funding** has enabled me to build and launch high-impact projects.
 
-I specialize in **building program backlogs, PI planning, and roadmapping, ensuring alignment between strategic vision and execution**. My goal in 2025 is to build a strong foundation in **ServiceNow, AWS, Java, JavaScript, Python, and SQL**, I'm expanding into **full-stack development** to enhance my ability to prototype and build transformative products. **Whether it's writing detailed user stories and acceptance criteria, story mapping or architecting scalable solutions, I intend to bridge the gap between vision, execution, and impact**.
+I specialize in **building program backlogs, PI planning, and roadmapping, ensuring alignment between strategic vision and execution**. I'm expanding into **full-stack development** to enhance my ability to prototype and build transformative products. **Whether it's writing detailed user stories and acceptance criteria, story mapping or architecting scalable solutions, I intend to bridge the gap between vision, execution, and impact**.
 
 ## I’m interested and involved in...
 - **Product Strategy & UX Design** – Aligning business goals with user needs
 - **Software Development** – Learning front-end and full-stack technologies
+- **Data Science & ETL** - Experimenting with different ETL techniques and python libraries for preparing and moving data
 - **Startup Growth & Equity Opportunities** – Interested in collaborating and working in impactful roles with innovative SaaS startups
-- **Sports & Youth Development** – Founder of Hillsborough Youth Basketball Academy a 501c3, where I volunteer my time coaching & mentoring young athletes
+- **Sports & Youth Development** – Founder of Hillsborough Youth Basketball Academy a 501c3, where I volunteer my time coaching & mentoring young athletes (https://www.hillsboroughbasketballacademy.com/)
 
 ## I’m currently learning and improving my skills in...
 - **Full-Stack Development** – Strengthening my coding skills to build and prototype solutions
-- **JavaScript, Python, Ruby on Rails & Cloud Databases** – Improving technical skills for SaaS products
+- **Python, Ruby on Rails & Cloud Architecture** – Improving technical skills for system design and product architecture
 
 ##  I’m looking to collaborate on...
 - **GovTech & SaaS Solutions** – Building scalable, impactful technology for government and enterprises
@@ -29,4 +30,4 @@ I specialize in **building program backlogs, PI planning, and roadmapping, ensur
 I played **college basketball** at the University of Delaware & the University of North Carolina at Greensboro and now use my leadership experience from the court to drive **team success in product strategy!**!
 
 ## Personal Note
-I am married and have two children that I adore. I love my family and I'm extremely grateful for them. 
+I am married to my amazing wife and have two children that I adore. I love my family and I'm extremely grateful for them. 
