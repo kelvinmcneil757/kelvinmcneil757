@@ -1,7 +1,7 @@
 # Hi, I'm Kelvin McNeil Jr. (@kelvinmcneil757)
 
 ## Personal Website
-https://kelvinmcneil757.github.io/resume/
+https://kelvinmcneiljr.com/
 
 ## About Me
 
