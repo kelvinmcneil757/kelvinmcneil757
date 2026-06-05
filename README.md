@@ -56,11 +56,8 @@ My background spans federal grants management, SaaS platforms, product strategy,
 - Cursor
 - GitHub
 
-## 🤝 Connect
 
-- Website: https://kelvinmcneil757.github.io/resume/
-
-## 🏀 Beyond Tech
+## Beyond Tech
 
 - Former NCAA Division I Basketball Player (University of Delaware & UNC Greensboro)
 - Founder & Coach, Hillsborough Youth Basketball Academy
