@@ -1,4 +1,4 @@
-# Hi, I'm Kelvin McNeil Jr. (@kelvinmcneil757)
+# Hi, I'm Kelvin (@kelvinmcneil757)
 
 ## Personal Website
 https://kelvinmcneiljr.com/
