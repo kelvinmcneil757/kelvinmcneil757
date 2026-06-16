@@ -1,7 +1,4 @@
-# Hi, I'm Kelvin (@kelvinmcneil757)
-
-## Personal Website
-https://kelvinmcneiljr.com/
+# Hi, I'm Kel 
 
 ## About Me
 
